@@ -1,0 +1,7 @@
+{
+  "chase_theme": {
+    "category": "hostile",
+    "subtitle": "subtitle.goat_exe.chase_theme",
+    "sounds": [{"name": "goat_exe:chase_theme", "stream": true}]
+  }
+}
